@@ -1,4 +1,4 @@
-AAAAAAAAS# Data-Scientist-Project-Planning
+AAAAAAAAAS# Data-Scientist-Project-Planning
 
 A structured planning repository for end-to-end Data Science projects, created to organize ideas, templates, and reasoning before technical implementation.
 
